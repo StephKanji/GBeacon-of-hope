@@ -1,10 +1,10 @@
 const images = [
-  { src: "/images/gallery-1.jpg", alt: "Students with textbooks" },
-  { src: "/images/gallery-2.jpg", alt: "Teacher training workshop" },
-  { src: "/images/gallery-1.jpg", alt: "Digital library session" },
-  { src: "/images/gallery-2.jpg", alt: "Community forum" },
-  { src: "/images/gallery-1.jpg", alt: "Girls in classroom" },
-  { src: "/images/gallery-2.jpg", alt: "School distribution day" },
+  { src: "/logo1.jpg", alt: "Students with textbooks" },
+  { src: "/logo2.jpg", alt: "Teacher training workshop" },
+  { src: "/logo1.jpg", alt: "Digital library session" },
+  { src: "/logo2.jpg", alt: "Community forum" },
+  { src: "/logo1.jpg", alt: "Girls in classroom" },
+  { src: "/logo2.jpg", alt: "School distribution day" },
 ];
 
 const placeholder = (i: number) =>
