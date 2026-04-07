@@ -59,7 +59,7 @@ export default function Hero() {
         <div className="hidden md:block relative">
           <div className="rounded-2xl overflow-hidden shadow-2xl border border-white/10">
             <img
-              src="/logo1.png"
+              src="/pic6.png"
               alt="Students in Kisii, Kenya"
               className="w-full h-[480px] object-cover"
               onError={(e) => {

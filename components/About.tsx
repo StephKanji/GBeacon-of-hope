@@ -6,7 +6,7 @@ export default function About() {
         <div className="relative">
           <div className="rounded-2xl overflow-hidden">
             <img
-              src="/logo2.png"
+              src="/pic2.png"
               alt="Children learning"
               className="w-full h-[420px] object-cover"
             />
